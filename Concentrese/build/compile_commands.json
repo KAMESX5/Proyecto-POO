@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/POO/concentrese/build",
+  "command": "/usr/bin/g++   -I/workspaces/POO/concentrese/include  -g   -o CMakeFiles/concentrese.dir/main.cpp.o -c /workspaces/POO/concentrese/main.cpp",
+  "file": "/workspaces/POO/concentrese/main.cpp"
+}
+]

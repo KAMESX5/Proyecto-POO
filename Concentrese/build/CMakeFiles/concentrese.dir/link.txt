@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/concentrese.dir/main.cpp.o  -o concentrese 

@@ -1,0 +1,3 @@
+/workspaces/POO/concentrese/build/CMakeFiles/rebuild_cache.dir
+/workspaces/POO/concentrese/build/CMakeFiles/edit_cache.dir
+/workspaces/POO/concentrese/build/CMakeFiles/concentrese.dir

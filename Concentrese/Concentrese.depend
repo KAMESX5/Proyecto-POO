@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748748554 source:d:\kames allstars\kames homeworks\poo\concentrese\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<vector>
+	<sstream>
+
